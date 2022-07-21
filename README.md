@@ -4,8 +4,10 @@ Hola este bot fue desarrolado por mamar al daniel
 ![image](https://user-images.githubusercontent.com/82906813/180109166-768dcb7c-5621-4107-8eb3-d5821dc6d9a0.png)
 
 
-npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH
 Escribe esto en donde pone shell
+npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH
+
+
 ![image](https://user-images.githubusercontent.com/82906813/180109200-a722ce9a-1dd3-463d-934e-11f854d5a0a2.png)
 
 Luego escribiras npm i en (shell tambien)
